@@ -1,4 +1,4 @@
-# Projet 2 — Mobile Money ETL & Fraud Detection
+# Mobile Money ETL & Fraud Detection
 
 Ce projet met en place une pipeline ETL sur le dataset PaySim, puis applique un modèle d’anomalies `IsolationForest` pour détecter les transactions frauduleuses.
 
